@@ -16,3 +16,4 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] My changes generate no new warnings
 - [ ] All submodules modifications have been approved and merged into dev prior to this one
 - [ ] All submodules I have modified point to their latest main branch
+- [ ] I have updated the documentation related to my modification (Statemachine flow charts, manuals, architecture documentation)
